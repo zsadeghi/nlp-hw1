@@ -1,0 +1,7 @@
+*.ipr
+*.ips
+*.iml
+.idea
+._*
+out
+src/data
